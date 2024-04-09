@@ -64,7 +64,7 @@ with Kafka:
      - This deployment method is ideal if you are already running Kafka or 
        have your own approach to installing and configuring Kafka.
 
-   * - :ref:`Install with a Containerized Cluster using Docker <install-docker>`
+   * - :ref:`Install with a Containerized Cluster using Docker <install-docker-kafka>`
 
      - This deployment method is ideal for educational purposes. Use this if you 
        are looking to learn and understand how to configure your own multi-server Kafka
@@ -87,6 +87,6 @@ Learn More
    :titlesonly:
 
    /installation/kafka-deployments/install-kafka-cluster
-   /installation/kafka-deployments/install-docker
+   /installation/kafka-deployments/install-docker-kafka
    /installation/kafka-deployments/install-confluent-kafka
    /installation/kafka-deployments/advanced-settings

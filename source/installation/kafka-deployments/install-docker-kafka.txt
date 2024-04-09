@@ -1,4 +1,4 @@
-.. _install-docker:
+.. _install-docker-kafka:
 
 =================================================
 Install with a Containerized Cluster Using Docker
